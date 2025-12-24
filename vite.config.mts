@@ -22,8 +22,8 @@ export default defineConfig(({ command }) => ({
     }),
     tailwindcss(),
     deltaComic({
-      name: 'cosav',
-      displayName: 'cos天堂',
+      name: 'hanime1',
+      displayName: 'Hanime1',
       version: _package.version,
       supportCoreVersion: '^0.4',
       author: _package.author.name,

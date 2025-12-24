@@ -1,2 +1,1 @@
-
-export const pluginName = 'cosav'
+export const pluginName = 'hanime1'
