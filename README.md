@@ -1,4 +1,4 @@
-# Delta Comic Plugin Hanime1 - _<span style="font-weight: lighter;font-size:16px">何以倾慕</span>_
+# Delta Comic Plugin Hanime1 - _<span style="font-weight: lighter;font-size:16px">何以倾慕</span>_ _(开发中)_
 
 [![GitHub](https://img.shields.io/github/license/wenxig/delta-comic-plugin-cosav)](https://raw.githubusercontent.com/wenxig/delta-comic-plugin-cosav/main/LICENSE)
 
